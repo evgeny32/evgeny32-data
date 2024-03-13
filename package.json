@@ -1,0 +1,23 @@
+{
+  "name": "evgeny32-data",
+  "version": "1.0.0",
+  "description": "A collection of data manipulation utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evgeny32/evgeny32-data"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeny32/evgeny32-data/issues"
+  },
+  "homepage": "https://github.com/evgeny32/evgeny32-data#readme"
+}
